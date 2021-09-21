@@ -8,6 +8,13 @@ body {
 }
 
 /* Here is one of many  CSS rules you will need... */
+a:link{ 
+background-color:#0000AA;
+color:#ffffff;
+}
+a:visited{
+color:#ffffff;
+}
 div{
     padding: 5px;
     margin: 5px;
@@ -34,4 +41,8 @@ div{
     border: 5px solid yellow;
     bottom: 0%;
     left: 0%
+}
+#link{
+text-align: center;
+top:0%;
 }
