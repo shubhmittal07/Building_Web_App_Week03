@@ -8,6 +8,30 @@ body {
 }
 
 /* Here is one of many  CSS rules you will need... */
+div{
+    padding: 5px;
+    margin: 5px;
+    width: 25%;
+    position: fixed;
+
+}
 #one {
-    
+    border: 5px solid blue;
+    right: 0%;
+    bottom: 0%;
+}
+#two {
+     border: 5px solid green;
+     top: 0%;
+     right: 0%;
+}
+#three {
+    border: 5px solid orange;
+    top: 0%;
+    left: 0%;
+}
+#four {
+    border: 5px solid yellow;
+    bottom: 0%;
+    left: 0%
 }
