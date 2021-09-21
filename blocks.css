@@ -9,11 +9,24 @@ body {
 
 /* Here is one of many  CSS rules you will need... */
 a:link{ 
-background-color:#0000AA;
-color:#ffffff;
+background-color: #354eb1;
+color:#fefefe;
+text-decoration: none;
 }
-a:visited{
-color:#ffffff;
+a:visited{ 
+background-color: #354eb1;
+color:#fefefe;
+text-decoration: none;
+}
+a:hover{ 
+background-color: #354eb1;
+color:#fefefe;
+text-decoration: none;
+}
+a:active{ 
+background-color: #354eb1;
+color:#fefefe;
+text-decoration: none;
 }
 div{
     padding: 5px;
@@ -45,4 +58,6 @@ div{
 #link{
 text-align: center;
 top:0%;
+left:0%;
+right:0%;
 }
